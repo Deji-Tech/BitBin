@@ -1,0 +1,24 @@
+{
+  "name": "bitbin",
+  "version": "1.0.0",
+  "description": "A Cloud Storage App.",
+  "scripts": {
+    "run-client": "",
+    "start-server": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theniteshdev/BitBin.git"
+  },
+  "keywords": [
+    "BitBin",
+    "couldStorage",
+    "storageApp"
+  ],
+  "author": "theniteshdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theniteshdev/BitBin/issues"
+  },
+  "homepage": "https://github.com/theniteshdev/BitBin#readme"
+}
