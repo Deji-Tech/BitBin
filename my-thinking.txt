@@ -1,0 +1,21 @@
+In this file i will going to write all my thought process and steps to build this small BitBin app.
+
+I will start this project with nodejs in ts. 
+
+In this project my main goal is to make the server optimize and clean code No any external Libs or Frameworks i will use in this project every single logic i will write by my self.
+
+The backend is servering json data through various API endpoints.
+
+Files and their use cases-
+[Utilities] this directory will contain the basics logic of basics things to build this project like env-extractor but implemented later.
+[app.icons] this directory is containing the icons realted to this app and also contain a svg.
+[uploads] this is actual storage where all the files will exists.
+[server] directory containing all my backend code
+[client] this is file just containg the all client side serving code they are- html css and ts.
+
+In this project basically user can login or signup and upload, delete their files (User Cannot Create Folders as per now thought process), and download from server fastly. (Limited types of files types can user store here);
+
+Preview mode is very important and I will handle preview mode securly.
+
+I will handle Signup and Login ?
+All the user data will going to store in the json file
