@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "A Cloud Storage App.",
   "scripts": {
-    "run-client": "",
-    "start-server": ""
+    "client": "npx serve ./client",
+    "server": "sudo node server/app.ts"
   },
   "repository": {
     "type": "git",
