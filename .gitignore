@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Build & Output Directories
+dist/
+build/
+coverage/
+.nyc_output/
+
+# IDE & Editor Files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime Data
+.pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Testing
+coverage/
+.nyc_output/
+
+# OS Generated Files
+Thumbs.db
+.DS_Store
+
+# MongoDB (if running locally in project dir)
+data/
+*.wt
+
+# Optional: If you generate any temporary files
+tmp/
+temp/
